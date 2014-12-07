@@ -1,3 +1,4 @@
+name              "libicu"
 maintainer        "Cloudant"
 maintainer_email  "support@cloudant.com"
 license           "Apache 2.0"
